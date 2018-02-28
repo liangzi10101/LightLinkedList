@@ -2,6 +2,7 @@
 >
 > #### Screen Shot：
 > ![image](https://github.com/liangzi10101/LightLinkedList/tree/master/Pictures/LLL_01.png) 
+> ![vedio](https://github.com/liangzi10101/LightLinkedList/tree/master/LLL_Demo_01_2lz.mp4 ) 
 >
 >----------------------------------- 
 # 延迟作色(Deferred Shading)效果展示
