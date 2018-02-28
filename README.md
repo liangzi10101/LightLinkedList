@@ -1,7 +1,7 @@
 # 动态光源链表(LightLinkedList)效果展示
 >
 > #### Screen Shot：
-> ![image](https://github.com/liangzi10101/LightLinkedList/tree/master/Pictures/LLL_01.png) 
+> ![image](https://github.com/liangzi10101/LightLinkedList/tree/master/Pictures/LLL_02.png) 
 > https://github.com/liangzi10101/LightLinkedList/tree/master/LLL_Demo_01_2lz.mp4 
 >
 >----------------------------------- 
