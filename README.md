@@ -1,14 +1,26 @@
-# 动态光源链表(LightLinkedList)算法效果展示
+# 动态光源链表(LightLinkedList)效果展示
 >
 > #### Screen Shot：
-> ![image](https://github.com/MonkeyKingY/Global_Illumination/raw/master/Picture/Cornell_Box.jpg) 
->  
->----------------------------------- 
-> #### 夜晚场景（无环境光）：
-> ![image](https://github.com/MonkeyKingY/Global_Illumination/raw/master/Picture/1.jpg) 
+> ![image](https://github.com/liangzi10101/LightLinkedList/blob/master/Pictures/DeferShading.bmp) 
 >
 >----------------------------------- 
-> #### 宫殿场景：
-> ![image](https://github.com/MonkeyKingY/Global_Illumination/raw/master/Picture/Sponza.jpg) 
+# 延迟作色(Deferred Shading)效果展示
+> #### Screen Shot:
+> ![image](https://github.com/liangzi10101/LightLinkedList/blob/master/Pictures/DeferShading.bmp) 
 >
-# LightLinkedList
+>----------------------------------- 
+# 阴影体(Deferred Shading)效果展示
+> #### Screen Shot:
+> ![image](https://github.com/liangzi10101/LightLinkedList/blob/master/Pictures/ShadowBox.gif) 
+>
+>----------------------------------- 
+# 屏幕空间环境光遮蔽(Screen Space Ambient Occlusion)效果展示
+> #### Screen Shot:
+> ![image](https://github.com/liangzi10101/LightLinkedList/blob/master/Pictures/SSAO_1.png) 
+>
+>----------------------------------- 
+# 顺序无关透明渲染(Order Independent Transparency)效果展示
+> #### Screen Shot:
+> ![image](https://github.com/liangzi10101/LightLinkedList/blob/master/Pictures/OIT.png) 
+>
+>----------------------------------- 
