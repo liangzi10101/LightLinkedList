@@ -1,7 +1,7 @@
 # 动态光源链表(LightLinkedList)效果展示
 >
 > #### Screen Shot：
-> ![image](https://github.com/liangzi10101/LightLinkedList/blob/master/Pictures/DeferShading.bmp) 
+> ![image](https://github.com/liangzi10101/LightLinkedList/tree/master/Pictures/LLL_01.png) 
 >
 >----------------------------------- 
 # 延迟作色(Deferred Shading)效果展示
@@ -17,6 +17,7 @@
 # 屏幕空间环境光遮蔽(Screen Space Ambient Occlusion)效果展示
 > #### Screen Shot:
 > ![image](https://github.com/liangzi10101/LightLinkedList/blob/master/Pictures/SSAO_1.png) 
+> ![image](https://github.com/liangzi10101/LightLinkedList/blob/master/Pictures/SSAO_2.png) 
 >
 >----------------------------------- 
 # 顺序无关透明渲染(Order Independent Transparency)效果展示
